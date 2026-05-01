@@ -38,10 +38,12 @@ Passionate about **scalable, modern, open-source solutions** and **sharing knowl
 
 ## 📂 Featured Projects  
 
-- 🎓 **QualeanPro** — E-learning platform (Spring Boot + Angular + MySQL + Stripe/PayPal)  
-- 📊 **Dashboard Analytics** — Data visualization (Power BI + Spring Boot APIs)  
-- 🛠️ **CoffManager** — Desktop app (JavaFX 21 + SQLite) for salon management  
-- 🌐 **Portfolio Web** — Personal branding & freelancing showcase  
+- QualeanPro : plateforme e-learning intégrant paiement en ligne, gestion des formations et génération de certificats
+- Smart Traffic System : solution basée sur l’IA pour l’optimisation du trafic urbain
+- HR Management System : digitalisation des processus RH
+- Analytics Dashboard : visualisation de données pour aide à la décision
+- CoffManager : application desktop de gestion métier
+- Portfolio Web : branding personnel et acquisition de clients
 
 ---
 
